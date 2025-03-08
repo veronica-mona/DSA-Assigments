@@ -1,6 +1,6 @@
 # DSA-Assigments
-assignments for DSA- group Evans, OYO, alex, Caroline, Rhona
-Group- Evans, Oyo, Alex, Caro and Rhona
+assignments for DSA- group Evans,alex, Caroline
+Group- Evans, Alex, Caro
 
 
 Question--Write an algorithm to add two numbers entered by a user.
